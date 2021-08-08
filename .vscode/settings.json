@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\jun25\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.lintOnSave": false,
+    "python.languageServer": "Pylance",
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "88"
+    ],
+    "editor.formatOnSave": true
+}
